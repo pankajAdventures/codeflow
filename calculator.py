@@ -21,3 +21,7 @@ print ("Addition: ", num_one + num_two)
 
 # Square root for Ehsan
 
+
+
+# Prepare a sample data set and call all the functions to showcase the results for vikash
+
